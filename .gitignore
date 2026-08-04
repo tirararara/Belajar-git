@@ -5,3 +5,5 @@ clone project git/
 log.txt
 index.ts
 
+#mengabaikan semua file dengann ekstensi .py
+*.py
